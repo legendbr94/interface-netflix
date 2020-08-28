@@ -11,7 +11,3 @@ Fiz a interface da Netflix, porém sem os slides. O objetivo foi treinar o os it
 
 ## 💻 Projeto<br>
 Um clone da interface da Netflix com HTML5 e CSS3.
-
-## 📝 Licença<br>
-O uso não autorizado e/ou duplicação deste material sem permissão expressa e por escrito.<br>
-Trechos e links podem ser usados, desde que o crédito total e claro seja dado a iuricode com orientação apropriada e específica para o conteúdo original.
